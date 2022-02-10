@@ -1,8 +1,8 @@
 version: '3.7'
 
 services:
-  boilerplate-apollo:
-    container_name: boilerplate-apollo
+  rune_holder:
+    container_name: rune_holder
     build:
       context: .
       dockerfile: Dockerfile
